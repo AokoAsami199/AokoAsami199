@@ -1,3 +1,4 @@
+![Aoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokoasami199&show_icons=true&theme=tokyonight)
 - 👋 Hi, I’m @AokoAsami199
 - 👀 I’m interested in playing games, coding
 - 🌱 I’m currently learning Java, C++, PHP, Go, JS, Python,...
