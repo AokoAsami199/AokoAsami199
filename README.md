@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aoko</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=labalityowo&label=Profile%20views&color=0e75b6&style=flat" alt="labalityowo" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aoko</h1>
+<h3 align="center">I'm a programmer in Vietnam.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labalityowo&theme=discord" alt="labality" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=labalityowo&label=Profile%20views&color=0e75b6&style=flat" alt="aokoasami199" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aokoasami199&theme=discord" alt="aokoasami199" /></a> </p>
 
 - 👀 I’m interested in playing games, coding
 - 🌱 I’m currently learning Java, C++, PHP, Go, JS, Python, Lua,...
