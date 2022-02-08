@@ -17,9 +17,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a> </p>
 
-![Aoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokoasami199&show_icons=true&theme=tokyonight)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aokoasami199&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aokoasami199" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aokoasami199&layout=compact)](https://github.com/aokoasami199/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aokoasami199&show_icons=true&locale=en&theme=tokyonight" alt="aokoasami199" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aokoasami199&theme=tokyonight" alt="aokoasami199" /></p>
 
 <!---
 AokoAsami199/AokoAsami199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
