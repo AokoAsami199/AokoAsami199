@@ -52,7 +52,7 @@
 
 <a href = "https://twitter.com/aokoasami199"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.facebook.com/aokoxenhgai/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-<a href = "AokoAsami199#8435"><img src="https://www.bestappsforkids.com/wp-content/uploads/2021/10/Discord.png"/></a>
+<a href = "AokoAsami199#8435"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 
 <!---
 AokoAsami199/AokoAsami199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
