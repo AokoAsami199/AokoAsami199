@@ -52,8 +52,9 @@
 
 <a href = "https://twitter.com/aokoasami199"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.facebook.com/aokoxenhgai/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-<a href = "AokoAsami199#8435"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aokoasami199&label=Profile%20views&color=0e75b6&style=flat" alt="aokoasami199" /> </p>
 <!---
 AokoAsami199/AokoAsami199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
