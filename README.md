@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labalityowo&theme=discord" alt="labality" /></a> </p>
 
 - 👀 I’m interested in playing games, coding
-- 🌱 I’m currently learning Java, C++, PHP, Go, JS, Python,...
+- 🌱 I’m currently learning Java, C++, PHP, Go, JS, Python, Lua,...
 - 📫 How to reach me: https://aokoasami199.carrd.co/
 
 <h3 align="left">Connect with me:</h3>
