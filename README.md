@@ -1,5 +1,5 @@
 ### Hi AokoAsami199 👋
-[![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=My+nickname+is+AokoAsami199;i+hope+to+be+better.;do+you+know+me+?%3F%3F%3F)](https://github.com/AokoAsami199)
+[![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=My+name+is+AokoAsami199;i+hope+to+be+better.;do+you+know+me+?%3F%3F%3F)](https://github.com/AokoAsami199)
 
 ### Coding Tools:
 
@@ -12,6 +12,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 
 </br>
+
+![Metrics](/github-metrics.svg)
 
 ### Info
 
@@ -27,5 +29,5 @@ final class AokoAsami199
   
 </div>
 <!--
-**AokoAsami199/AokoAsami199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile .
-![Metrics](/github-metrics.svg)
+**AokoAsami199/AokoAsami199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
