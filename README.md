@@ -1,6 +1,8 @@
 ### Hi AokoAsami199 👋
 [![Gif](https://readme-typing-svg.herokuapp.com/?color=%2300FFE2E&center=true&vCenter=true&lines=My+name+is+AokoAsami199;i+hope+to+be+better.;do+you+know+me+?%3F%3F%3F)](https://github.com/AokoAsami199)
 
+![Metrics](/github-metrics.svg)
+
 ### Coding Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -12,10 +14,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 
 </br>
-
-
-<img align="left"![Metrics](/github-metrics.svg)>
-
 
 ### Info
 
@@ -31,5 +29,5 @@ final class AokoAsami199
   
 </div>
 <!--
-**AokoAsami199/AokoAsami199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
