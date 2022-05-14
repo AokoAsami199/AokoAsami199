@@ -14,7 +14,7 @@
 </br>
 
 
-![Metrics](/github-metrics.svg)
+<img align="left"![Metrics](/github-metrics.svg)>
 
 
 ### Info
