@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm AokoAsami199</h1>
-<h3 align="center">Vietnamese Programmer🌟.</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=aokoasami199&label=Profile%20views&color=0e75b6&style=flat"
-    alt="AokoAsami199" /> 
-  </p>
+<h3 align="center">Vietnamese Programmer🌟</h3>
 
 <br>
 
@@ -95,3 +89,10 @@
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 [AokoAsami199](https://github.com/aokoasami199)
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=aokoasami199&label=Profile%20views&color=0e75b6&style=flat"
+    alt="AokoAsami199" /> 
+  </p>
+
+<br>
