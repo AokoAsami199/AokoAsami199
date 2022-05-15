@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/AokoAsami199/AokoAsami199/blob/main/animation_500_kxa883sd.gif" alt="AokoAsami199" /></p>
+<p><img align="right" src="https://avatars.githubusercontent.com/u/94779197?s=400&u=1b63bb4829f9ad0a05937cf41c7a7a22c7c96e37&v=4" alt="AokoAsami199" /></p>
 
 
 - 🌱 I’m currently learning PHP, Java and other programming languages
