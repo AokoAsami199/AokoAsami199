@@ -78,8 +78,6 @@
 
 <br>
 
-<p><img align="right" src="https://scontent.fthd1-1.fna.fbcdn.net/v/t39.30808-6/277569847_513928240329185_921261349627679759_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=4P354ZD9gfsAX-Z852r&_nc_ht=scontent.fthd1-1.fna&oh=00_AT_XMn3zIYuwlVUlaD6gQCcybKKjZPwTZOdNV0z2JZNYgg&oe=62C8E306" alt="AokoAsami199" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aokoasami199&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="aokoasami199" /></p>
 
