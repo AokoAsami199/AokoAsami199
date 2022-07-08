@@ -70,7 +70,7 @@
 
 <br>
 
-[video.webm](https://user-images.githubusercontent.com/94779197/177451517-e3e0337a-037a-478a-bf3c-809d54a7ec79.webm)
+![0dcf9c04cfed](https://user-images.githubusercontent.com/94779197/177913611-75852707-c9bc-43bf-8924-e4281f0fce53.gif)
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
