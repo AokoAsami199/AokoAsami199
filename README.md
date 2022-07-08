@@ -70,7 +70,7 @@
 
 <br>
 
-![0dcf9c04cfed](https://user-images.githubusercontent.com/94779197/177913611-75852707-c9bc-43bf-8924-e4281f0fce53.gif)
+![331c564bd971429](https://user-images.githubusercontent.com/94779197/177913703-3cac0dce-e5c4-4ca2-b80f-d2c5b95a4868.gif)
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
