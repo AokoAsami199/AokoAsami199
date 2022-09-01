@@ -28,7 +28,7 @@
   A bot that it helps link discord and minecraft server.
 - 📙 [***AokoAsami199/DeathCoin***](https://github.com/AokoAsami199/DeathCoin) <br/>
   DeathCoin for PMMP
-- 📕 [***AokoAsami199/WolfMC***](https://github.com/AokoAsami199/DeathCoin) <br/>
+- 📕 [***AokoAsami199/WolfMC***](https://github.com/AokoAsami199/WolfMC) <br/>
   A fork of PMMP that it supports PM3 and minecraft bedrock 1.19.x version - Outdate (You can buy Gravity that it is developing and supporting)
 - 📒 [***AokoAsami199/DiscordRelay***](https://github.com/AokoAsami199/DiscordRelay) <br/>
   Another plugin that it helps link discord and minecraft server.
