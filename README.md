@@ -11,7 +11,7 @@
 
 - Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
 
-- Good with **Javascript** & **PHP**
+- Good with **Javascript** & **PHP** & **Java** & **C++**
 
 - My favourite games: **Minecraft** & **Valorant**
 
